@@ -1,5 +1,5 @@
 # X-Mahalanobis: Transformer Feature Mixing for Reliable OOD Detection
-PyTorch Code for the following paper at NIPS2025 [Anonymous]
+PyTorch Code for the following paper published at NeurIPS 2025
 
 <b>Title</b>: <i>X-Mahalanobis: Transformer Feature Mixing for Reliable OOD Detection</i> 
 
